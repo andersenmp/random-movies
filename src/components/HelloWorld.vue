@@ -14,7 +14,7 @@
           </v-btn>
       </v-row>
 
-      <v-row v-show="isPicked">
+      <v-row v-show="isPicked" v-cloak>
         <v-col>
           <v-card>
                 <v-img
@@ -39,7 +39,7 @@
       <v-row
          v-show="!isPicked"
          v-for="movie in allMovies"
-         :key="movie.id">
+         :key="movie.id" v-cloak>
 
         <v-col>
             <v-card >
@@ -99,24 +99,26 @@ export default {
     }
   },
   methods: {
-    ...mapActions(["fetchLocalMovies", "toggleView"]),
+    ...mapActions(["fetchBoxOffice", "toggleView"]),
     pickOne(){
       this.randomElement = this.allMovies[Math.floor(Math.random() * this.allMovies.length)];
       this.toggleView(true);
     },
-    fetchAllLocalMovies(){
+     fetchAllLocalBoxOffice(){
       this.toggleView(false);
-      this.fetchLocalMovies();
+      this.fetchBoxOffice();
     },
   },
   computed: mapGetters(["allMovies","isPicked"]),
   created() {
-    this.fetchAllLocalMovies();
+    this.fetchAllLocalBoxOffice();
   }
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-
+[v-cloak] {
+    display: none;
+}
 </style>

@@ -9,8 +9,14 @@
           absolute
         >
       
+      <v-btn  @click="fetchAllLocalBoxOffice()" class="mt-2"> 
+          <span>Office Box</span>
+
+          <v-icon>mdi-popcorn</v-icon>
+      </v-btn>
+      
       <v-btn  @click="fetchAllLocalMovies()" class="mt-2"> 
-          <span>Movies</span>
+          <span>Rated</span>
 
           <v-icon>mdi-filmstrip</v-icon>
       </v-btn>
@@ -18,7 +24,7 @@
       <v-btn  @click="fetchAllLocalTv()" class="mt-2" >  
           <span>TV</span>
 
-          <v-icon>mdi-popcorn</v-icon>
+          <v-icon>mdi-television-classic</v-icon>
        </v-btn>
 
     </v-bottom-navigation>
@@ -36,7 +42,7 @@ export default {
     };
   },
   methods: {
-    ...mapActions(["fetchLocalTv","fetchLocalMovies", "toggleView"]),
+    ...mapActions(["fetchLocalTv","fetchLocalMovies", "fetchBoxOffice", "toggleView"]),
     fetchAllLocalTv(){
       this.toggleView(false);
       this.fetchLocalTv();
@@ -44,6 +50,10 @@ export default {
     fetchAllLocalMovies(){
       this.toggleView(false);
       this.fetchLocalMovies();
+    },
+     fetchAllLocalBoxOffice(){
+      this.toggleView(false);
+      this.fetchBoxOffice();
     },
   },
   
@@ -53,6 +63,7 @@ export default {
       switch (this.value) {
         case 0: return 'pink'
         case 1: return 'indigo'
+        case 2: return 'purple'
         default: return 'pink'
       }
     },

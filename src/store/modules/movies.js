@@ -1,6 +1,7 @@
 import axios from 'axios';
 import localMovies from "./localMovies.json"
 import localTv from "./localTv.json"
+import localBoxOffice from "./localBoxOffice.json"
 
 const api_key = process.env.VUE_APP_API_KEY_TMDB;
 const api_baseUrl = 'https://api.themoviedb.org/3';
@@ -27,6 +28,12 @@ const actions = {
   async fetchLocalTv({ commit }) {
 
     commit('setLocalMovies', localTv);
+     
+   },
+
+   async fetchBoxOffice({ commit }) {
+
+    commit('setLocalBoxOffice', localBoxOffice);
      
    },
 
@@ -79,6 +86,18 @@ const mutations = {
             selected: false
         }));
     },
+    setLocalBoxOffice: (state, movies) => {
+      state.movies = movies.map(movie => ({
+          id: movie.id,
+          title: movie.id + "." +  movie.title,
+          original_title: "Rate:" + movie.rate + " | Year: " + movie.year,
+          image:  movie.image,
+          overview: movie.overview,
+          show: false,
+          selected: false
+      }));
+  },
+
     setLocalMovies: (state, movies) => {
       state.movies = movies.map(movie => ({
           id: movie.id,
