@@ -1,1751 +1,1752 @@
-[{
+[
+  {
     "id": 1,
     "rate": "9.2",
     "year": "(1994)",
     "title": "The Shawshank Redemption",
     "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 2,
     "rate": "9.1",
     "year": "(1972)",
     "title": "The Godfather",
     "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 3,
     "rate": "9.0",
     "year": "(1974)",
     "title": "The Godfather: Part II",
     "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 4,
     "rate": "9.0",
     "year": "(2008)",
     "title": "The Dark Knight",
     "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 5,
     "rate": "8.9",
     "year": "(1957)",
     "title": "12 Angry Men",
     "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 6,
     "rate": "8.9",
     "year": "(1993)",
     "title": "Schindler's List",
     "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 7,
     "rate": "8.9",
     "year": "(2003)",
     "title": "The Lord of the Rings: The Return of the King",
     "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 8,
     "rate": "8.8",
     "year": "(1994)",
     "title": "Pulp Fiction",
     "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 9,
     "rate": "8.8",
     "year": "(1966)",
     "title": "The Good, the Bad and the Ugly",
     "image": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 10,
     "rate": "8.8",
     "year": "(2001)",
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 11,
     "rate": "8.8",
     "year": "(1999)",
     "title": "Fight Club",
     "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 12,
     "rate": "8.8",
     "year": "(1994)",
     "title": "Forrest Gump",
     "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 13,
     "rate": "8.7",
     "year": "(2010)",
     "title": "Inception",
     "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 14,
     "rate": "8.7",
     "year": "(2002)",
     "title": "The Lord of the Rings: The Two Towers",
     "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 15,
     "rate": "8.7",
     "year": "(1980)",
     "title": "Star Wars: Episode V - The Empire Strikes Back",
     "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 16,
     "rate": "8.6",
     "year": "(1999)",
     "title": "The Matrix",
     "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 17,
     "rate": "8.6",
     "year": "(1990)",
     "title": "Goodfellas",
     "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 18,
     "rate": "8.6",
     "year": "(1975)",
     "title": "One Flew Over the Cuckoo's Nest",
     "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 19,
     "rate": "8.6",
     "year": "(1954)",
     "title": "Seven Samurai",
     "image": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 20,
     "rate": "8.6",
     "year": "(1995)",
     "title": "Se7en",
     "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 21,
     "rate": "8.6",
     "year": "(1997)",
     "title": "Life Is Beautiful",
     "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 22,
     "rate": "8.6",
     "year": "(2002)",
     "title": "City of God",
     "image": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 23,
     "rate": "8.6",
     "year": "(1991)",
     "title": "The Silence of the Lambs",
     "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 24,
     "rate": "8.6",
     "year": "(1946)",
     "title": "It's a Wonderful Life",
     "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 25,
     "rate": "8.6",
     "year": "(1977)",
     "title": "Star Wars: Episode IV - A New Hope",
     "image": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 26,
     "rate": "8.5",
     "year": "(1998)",
     "title": "Saving Private Ryan",
     "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 27,
     "rate": "8.5",
     "year": "(2001)",
     "title": "Spirited Away",
     "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 28,
     "rate": "8.5",
     "year": "(1999)",
     "title": "The Green Mile",
     "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 29,
     "rate": "8.5",
     "year": "(2014)",
     "title": "Interstellar",
     "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 30,
     "rate": "8.5",
     "year": "(2019)",
     "title": "Parasite",
     "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 31,
     "rate": "8.5",
     "year": "(1994)",
     "title": "Léon: The Professional",
     "image": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 32,
     "rate": "8.5",
     "year": "(1995)",
     "title": "The Usual Suspects",
     "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 33,
     "rate": "8.5",
     "year": "(1962)",
     "title": "Hara-Kiri",
     "image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 34,
     "rate": "8.5",
     "year": "(1994)",
     "title": "The Lion King",
     "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 35,
     "rate": "8.5",
     "year": "(2002)",
     "title": "The Pianist",
     "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 36,
     "rate": "8.5",
     "year": "(1985)",
     "title": "Back to the Future",
     "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 37,
     "rate": "8.5",
     "year": "(1991)",
     "title": "Terminator 2: Judgment Day",
     "image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 38,
     "rate": "8.5",
     "year": "(1998)",
     "title": "American History X",
     "image": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 39,
     "rate": "8.5",
     "year": "(1936)",
     "title": "Modern Times",
     "image": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 40,
     "rate": "8.5",
     "year": "(1960)",
     "title": "Psycho",
     "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 41,
     "rate": "8.5",
     "year": "(2000)",
     "title": "Gladiator",
     "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 42,
     "rate": "8.5",
     "year": "(1931)",
     "title": "City Lights",
     "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 43,
     "rate": "8.5",
     "year": "(2006)",
     "title": "The Departed",
     "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 44,
     "rate": "8.5",
     "year": "(2011)",
     "title": "The Intouchables",
     "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 45,
     "rate": "8.5",
     "year": "(2014)",
     "title": "Whiplash",
     "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 46,
     "rate": "8.5",
     "year": "(2006)",
     "title": "The Prestige",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 47,
     "rate": "8.5",
     "year": "(1988)",
     "title": "Grave of the Fireflies",
     "image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 48,
     "rate": "8.4",
     "year": "(1968)",
     "title": "Once Upon a Time in the West",
     "image": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 49,
     "rate": "8.4",
     "year": "(1942)",
     "title": "Casablanca",
     "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 50,
     "rate": "8.4",
     "year": "(2020)",
     "title": "Hamilton",
     "image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 51,
     "rate": "8.4",
     "year": "(1988)",
     "title": "Cinema Paradiso",
     "image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 52,
     "rate": "8.4",
     "year": "(1954)",
     "title": "Rear Window",
     "image": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 53,
     "rate": "8.4",
     "year": "(1979)",
     "title": "Alien",
     "image": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 54,
     "rate": "8.4",
     "year": "(1979)",
     "title": "Apocalypse Now",
     "image": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 55,
     "rate": "8.4",
     "year": "(2000)",
     "title": "Memento",
     "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 56,
     "rate": "8.4",
     "year": "(1940)",
     "title": "The Great Dictator",
     "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 57,
     "rate": "8.4",
     "year": "(1981)",
     "title": "Raiders of the Lost Ark",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 58,
     "rate": "8.4",
     "year": "(2012)",
     "title": "Django Unchained",
     "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 59,
     "rate": "8.4",
     "year": "(2006)",
     "title": "The Lives of Others",
     "image": "https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 60,
     "rate": "8.4",
     "year": "(2019)",
     "title": "Joker",
     "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 61,
     "rate": "8.4",
     "year": "(1957)",
     "title": "Paths of Glory",
     "image": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 62,
     "rate": "8.4",
     "year": "(2008)",
     "title": "WALL·E",
     "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 63,
     "rate": "8.4",
     "year": "(1980)",
     "title": "The Shining",
     "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 64,
     "rate": "8.4",
     "year": "(2018)",
     "title": "Avengers: Infinity War",
     "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 65,
     "rate": "8.4",
     "year": "(1950)",
     "title": "Sunset Blvd.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 66,
     "rate": "8.4",
     "year": "(1957)",
     "title": "Witness for the Prosecution",
     "image": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 67,
     "rate": "8.4",
     "year": "(2003)",
     "title": "Oldboy",
     "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 68,
     "rate": "8.4",
     "year": "(2018)",
     "title": "Spider-Man: Into the Spider-Verse",
     "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 69,
     "rate": "8.3",
     "year": "(1997)",
     "title": "Princess Mononoke",
     "image": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 70,
     "rate": "8.3",
     "year": "(1964)",
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "image": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 71,
     "rate": "8.3",
     "year": "(2012)",
     "title": "The Dark Knight Rises",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 72,
     "rate": "8.3",
     "year": "(1984)",
     "title": "Once Upon a Time in America",
     "image": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 73,
     "rate": "8.3",
     "year": "(1986)",
     "title": "Aliens",
     "image": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 74,
     "rate": "8.3",
     "year": "(2016)",
     "title": "Your Name.",
     "image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 75,
     "rate": "8.3",
     "year": "(2017)",
     "title": "Coco",
     "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 76,
     "rate": "8.3",
     "year": "(2019)",
     "title": "Avengers: Endgame",
     "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 77,
     "rate": "8.3",
     "year": "(1999)",
     "title": "American Beauty",
     "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 78,
     "rate": "8.3",
     "year": "(1995)",
     "title": "Braveheart",
     "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 79,
     "rate": "8.3",
     "year": "(2009)",
     "title": "3 Idiots",
     "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 80,
     "rate": "8.3",
     "year": "(1981)",
     "title": "Das Boot",
     "image": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 81,
     "rate": "8.3",
     "year": "(1995)",
     "title": "Toy Story",
     "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 82,
     "rate": "8.3",
     "year": "(2018)",
     "title": "Capernaum",
     "image": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 83,
     "rate": "8.3",
     "year": "(1963)",
     "title": "High and Low",
     "image": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 84,
     "rate": "8.3",
     "year": "(1984)",
     "title": "Amadeus",
     "image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 85,
     "rate": "8.3",
     "year": "(2009)",
     "title": "Inglourious Basterds",
     "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 86,
     "rate": "8.3",
     "year": "(1983)",
     "title": "Star Wars: Episode VI - Return of the Jedi",
     "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 87,
     "rate": "8.3",
     "year": "(2007)",
     "title": "Like Stars on Earth",
     "image": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 88,
     "rate": "8.3",
     "year": "(1997)",
     "title": "Good Will Hunting",
     "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 89,
     "rate": "8.3",
     "year": "(1992)",
     "title": "Reservoir Dogs",
     "image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 90,
     "rate": "8.3",
     "year": "(1968)",
     "title": "2001: A Space Odyssey",
     "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 91,
     "rate": "8.3",
     "year": "(2000)",
     "title": "Requiem for a Dream",
     "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 92,
     "rate": "8.3",
     "year": "(1958)",
     "title": "Vertigo",
     "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 93,
     "rate": "8.3",
     "year": "(1931)",
     "title": "M",
     "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 94,
     "rate": "8.3",
     "year": "(2004)",
     "title": "Eternal Sunshine of the Spotless Mind",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 95,
     "rate": "8.3",
     "year": "(2012)",
     "title": "The Hunt",
     "image": "https://m.media-amazon.com/images/M/MV5BNDM2MzMwMzcxNF5BMl5BanBnXkFtZTcwNTczMDk3OA@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 96,
     "rate": "8.3",
     "year": "(1941)",
     "title": "Citizen Kane",
     "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 97,
     "rate": "8.3",
     "year": "(2016)",
     "title": "Dangal",
     "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 98,
     "rate": "8.2",
     "year": "(1987)",
     "title": "Full Metal Jacket",
     "image": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 99,
     "rate": "8.2",
     "year": "(1948)",
     "title": "Bicycle Thieves",
     "image": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 100,
     "rate": "8.2",
     "year": "(2019)",
     "title": "1917",
     "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 101,
     "rate": "8.2",
     "year": "(1952)",
     "title": "Singin' in the Rain",
     "image": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 102,
     "rate": "8.2",
     "year": "(1921)",
     "title": "The Kid",
     "image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 103,
     "rate": "8.2",
     "year": "(1959)",
     "title": "North by Northwest",
     "image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 104,
     "rate": "8.2",
     "year": "(1971)",
     "title": "A Clockwork Orange",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 105,
     "rate": "8.2",
     "year": "(2000)",
     "title": "Snatch",
     "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 106,
     "rate": "8.2",
     "year": "(1983)",
     "title": "Scarface",
     "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 107,
     "rate": "8.2",
     "year": "(1952)",
     "title": "Ikiru",
     "image": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 108,
     "rate": "8.2",
     "year": "(1976)",
     "title": "Taxi Driver",
     "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 109,
     "rate": "8.2",
     "year": "(1985)",
     "title": "Come and See",
     "image": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 110,
     "rate": "8.2",
     "year": "(2010)",
     "title": "Toy Story 3",
     "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 111,
     "rate": "8.2",
     "year": "(1962)",
     "title": "Lawrence of Arabia",
     "image": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 112,
     "rate": "8.2",
     "year": "(2001)",
     "title": "Amélie",
     "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 113,
     "rate": "8.2",
     "year": "(1973)",
     "title": "The Sting",
     "image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 114,
     "rate": "8.2",
     "year": "(2011)",
     "title": "A Separation",
     "image": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 115,
     "rate": "8.2",
     "year": "(1927)",
     "title": "Metropolis",
     "image": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 116,
     "rate": "8.2",
     "year": "(2010)",
     "title": "Incendies",
     "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 117,
     "rate": "8.2",
     "year": "(1965)",
     "title": "For a Few Dollars More",
     "image": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 118,
     "rate": "8.2",
     "year": "(1960)",
     "title": "The Apartment",
     "image": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 119,
     "rate": "8.2",
     "year": "(1944)",
     "title": "Double Indemnity",
     "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 120,
     "rate": "8.2",
     "year": "(1962)",
     "title": "To Kill a Mockingbird",
     "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 121,
     "rate": "8.2",
     "year": "(2009)",
     "title": "Up",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 122,
     "rate": "8.2",
     "year": "(1989)",
     "title": "Indiana Jones and the Last Crusade",
     "image": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 123,
     "rate": "8.2",
     "year": "(1995)",
     "title": "Heat",
     "image": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 124,
     "rate": "8.2",
     "year": "(1997)",
     "title": "L.A. Confidential",
     "image": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 125,
     "rate": "8.2",
     "year": "(1988)",
     "title": "Die Hard",
     "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 126,
     "rate": "8.2",
     "year": "(1975)",
     "title": "Monty Python and the Holy Grail",
     "image": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 127,
     "rate": "8.2",
     "year": "(2018)",
     "title": "Green Book",
     "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 128,
     "rate": "8.2",
     "year": "(1950)",
     "title": "Rashomon",
     "image": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 129,
     "rate": "8.2",
     "year": "(1961)",
     "title": "Yojimbo",
     "image": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 130,
     "rate": "8.2",
     "year": "(2005)",
     "title": "Batman Begins",
     "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 131,
     "rate": "8.2",
     "year": "(2004)",
     "title": "Downfall",
     "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 132,
     "rate": "8.2",
     "year": "(1997)",
     "title": "Children of Heaven",
     "image": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 133,
     "rate": "8.2",
     "year": "(1992)",
     "title": "Unforgiven",
     "image": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 134,
     "rate": "8.2",
     "year": "(1985)",
     "title": "Ran",
     "image": "https://m.media-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 135,
     "rate": "8.2",
     "year": "(1959)",
     "title": "Some Like It Hot",
     "image": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 136,
     "rate": "8.2",
     "year": "(2004)",
     "title": "Howl's Moving Castle",
     "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 137,
     "rate": "8.2",
     "year": "(1950)",
     "title": "All About Eve",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 138,
     "rate": "8.2",
     "year": "(2001)",
     "title": "A Beautiful Mind",
     "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 139,
     "rate": "8.2",
     "year": "(1995)",
     "title": "Casino",
     "image": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 140,
     "rate": "8.2",
     "year": "(1963)",
     "title": "The Great Escape",
     "image": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 141,
     "rate": "8.2",
     "year": "(2013)",
     "title": "The Wolf of Wall Street",
     "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 142,
     "rate": "8.2",
     "year": "(2006)",
     "title": "Pan's Labyrinth",
     "image": "https://m.media-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 143,
     "rate": "8.1",
     "year": "(2009)",
     "title": "The Secret in Their Eyes",
     "image": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 144,
     "rate": "8.1",
     "year": "(1998)",
     "title": "Lock, Stock and Two Smoking Barrels",
     "image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 145,
     "rate": "8.1",
     "year": "(2007)",
     "title": "There Will Be Blood",
     "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 146,
     "rate": "8.1",
     "year": "(1988)",
     "title": "My Neighbor Totoro",
     "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 147,
     "rate": "8.1",
     "year": "(1980)",
     "title": "Raging Bull",
     "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 148,
     "rate": "8.1",
     "year": "(1961)",
     "title": "Judgment at Nuremberg",
     "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 149,
     "rate": "8.1",
     "year": "(1948)",
     "title": "The Treasure of the Sierra Madre",
     "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 150,
     "rate": "8.1",
     "year": "(1954)",
     "title": "Dial M for Murder",
     "image": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 151,
     "rate": "8.1",
     "year": "(2017)",
     "title": "Three Billboards Outside Ebbing, Missouri",
     "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 152,
     "rate": "8.1",
     "year": "(1925)",
     "title": "The Gold Rush",
     "image": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 153,
     "rate": "8.1",
     "year": "(2010)",
     "title": "Shutter Island",
     "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 154,
     "rate": "8.1",
     "year": "(1974)",
     "title": "Chinatown",
     "image": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 155,
     "rate": "8.1",
     "year": "(2005)",
     "title": "My Father and My Son",
     "image": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 156,
     "rate": "8.1",
     "year": "(2007)",
     "title": "No Country for Old Men",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 157,
     "rate": "8.1",
     "year": "(2005)",
     "title": "V for Vendetta",
     "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 158,
     "rate": "8.1",
     "year": "(1971)",
     "title": "Anand",
     "image": "https://m.media-amazon.com/images/M/MV5BYmYzNmM2MDctZGY3Yi00NjRiLWIxZjctYjgzYTcxYTNhYTMyXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 159,
     "rate": "8.1",
     "year": "(1957)",
     "title": "The Seventh Seal",
     "image": "https://m.media-amazon.com/images/M/MV5BM2I1ZWU4YjMtYzU0My00YmMzLWFmNTAtZDJhZGYwMmI3YWQ5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 160,
     "rate": "8.1",
     "year": "(2015)",
     "title": "Inside Out",
     "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 161,
     "rate": "8.1",
     "year": "(1980)",
     "title": "The Elephant Man",
     "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 162,
     "rate": "8.1",
     "year": "(2011)",
     "title": "Warrior",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 163,
     "rate": "8.1",
     "year": "(1982)",
     "title": "The Thing",
     "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 164,
     "rate": "8.1",
     "year": "(1999)",
     "title": "The Sixth Sense",
     "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 165,
     "rate": "8.1",
     "year": "(1996)",
     "title": "Trainspotting",
     "image": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 166,
     "rate": "8.1",
     "year": "(1993)",
     "title": "Jurassic Park",
     "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 167,
     "rate": "8.1",
     "year": "(1998)",
     "title": "The Truman Show",
     "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 168,
     "rate": "8.1",
     "year": "(1939)",
     "title": "Gone with the Wind",
     "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 169,
     "rate": "8.1",
     "year": "(2003)",
     "title": "Finding Nemo",
     "image": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 170,
     "rate": "8.1",
     "year": "(1957)",
     "title": "Wild Strawberries",
     "image": "https://m.media-amazon.com/images/M/MV5BZjJhNTBmNTgtMDViOC00NDY2LWE4N2ItMDJiM2ZiYmQzYzliXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 171,
     "rate": "8.1",
     "year": "(1982)",
     "title": "Blade Runner",
     "image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 172,
     "rate": "8.1",
     "year": "(1979)",
     "title": "Stalker",
     "image": "https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 173,
     "rate": "8.1",
     "year": "(2003)",
     "title": "Kill Bill: Vol. 1",
     "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 174,
     "rate": "8.1",
     "year": "(2003)",
     "title": "Memories of Murder",
     "image": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 175,
     "rate": "8.1",
     "year": "(1957)",
     "title": "The Bridge on the River Kwai",
     "image": "https://m.media-amazon.com/images/M/MV5BMGVhNjhjODktODgxYS00MDdhLTlkZjktYTkyNzQxMTU0ZDYxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 176,
     "rate": "8.1",
     "year": "(2019)",
     "title": "Klaus",
     "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 177,
     "rate": "8.1",
     "year": "(1996)",
     "title": "Fargo",
     "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 178,
     "rate": "8.1",
     "year": "(2015)",
     "title": "Room",
     "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 179,
     "rate": "8.1",
     "year": "(1949)",
     "title": "The Third Man",
     "image": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 180,
     "rate": "8.1",
     "year": "(2008)",
     "title": "Gran Torino",
     "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 181,
     "rate": "8.1",
     "year": "(1953)",
     "title": "Tokyo Story",
     "image": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 182,
     "rate": "8.1",
     "year": "(1954)",
     "title": "On the Waterfront",
     "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 183,
     "rate": "8.1",
     "year": "(2014)",
     "title": "Wild Tales",
     "image": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 184,
     "rate": "8.1",
     "year": "(1978)",
     "title": "The Deer Hunter",
     "image": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 185,
     "rate": "8.1",
     "year": "(1978)",
     "title": "Autumn Sonata",
     "image": "https://m.media-amazon.com/images/M/MV5BNGIyMWRlYTctMWNlMi00ZGIzLThjOTgtZjQzZjRjNmRhMDdlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 186,
     "rate": "8.1",
     "year": "(1993)",
     "title": "In the Name of the Father",
     "image": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 187,
     "rate": "8.1",
     "year": "(2009)",
     "title": "Mary and Max",
     "image": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 188,
     "rate": "8.1",
     "year": "(2014)",
     "title": "Gone Girl",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 189,
     "rate": "8.1",
     "year": "(2014)",
     "title": "The Grand Budapest Hotel",
     "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 190,
     "rate": "8.1",
     "year": "(1995)",
     "title": "Before Sunrise",
     "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 191,
     "rate": "8.1",
     "year": "(2016)",
     "title": "Hacksaw Ridge",
     "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 192,
     "rate": "8.1",
     "year": "(2002)",
     "title": "Catch Me If You Can",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 193,
     "rate": "8.1",
     "year": "(2018)",
     "title": "Andhadhun",
     "image": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 194,
     "rate": "8.1",
     "year": "(1966)",
     "title": "Persona",
     "image": "https://m.media-amazon.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 195,
     "rate": "8.1",
     "year": "(1998)",
     "title": "The Big Lebowski",
     "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 196,
     "rate": "8.1",
     "year": "(2013)",
     "title": "Prisoners",
     "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 197,
     "rate": "8.1",
     "year": "(1924)",
     "title": "Sherlock Jr.",
     "image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 198,
     "rate": "8.1",
     "year": "(1942)",
     "title": "To Be or Not to Be",
     "image": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 199,
     "rate": "8.1",
     "year": "(1926)",
     "title": "The General",
     "image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 200,
     "rate": "8.1",
     "year": "(2010)",
     "title": "How to Train Your Dragon",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 201,
     "rate": "8.1",
     "year": "(1996)",
     "title": "The Bandit",
     "image": "https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 202,
     "rate": "8.1",
     "year": "(2019)",
     "title": "Ford v Ferrari",
     "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 203,
     "rate": "8.1",
     "year": "(2013)",
     "title": "12 Years a Slave",
     "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 204,
     "rate": "8.1",
     "year": "(1975)",
     "title": "Barry Lyndon",
     "image": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 205,
     "rate": "8.1",
     "year": "(1939)",
     "title": "Mr. Smith Goes to Washington",
     "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 206,
     "rate": "8.1",
     "year": "(2015)",
     "title": "Mad Max: Fury Road",
     "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 207,
     "rate": "8.1",
     "year": "(1988)",
     "title": "Time of the Gypsies",
     "image": "https://m.media-amazon.com/images/M/MV5BODI2ZjVlMGQtMWE5ZS00MjJiLWIyMWYtMGU5NmIxNDc0OTMyXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 208,
     "rate": "8.1",
     "year": "(2004)",
     "title": "Million Dollar Baby",
     "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 209,
     "rate": "8.1",
     "year": "(1976)",
     "title": "Network",
     "image": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 210,
     "rate": "8.1",
     "year": "(1986)",
     "title": "Stand by Me",
     "image": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 211,
     "rate": "8.1",
     "year": "(1989)",
     "title": "Dead Poets Society",
     "image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 212,
     "rate": "8.1",
     "year": "(1967)",
     "title": "Cool Hand Luke",
     "image": "https://m.media-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 213,
     "rate": "8.1",
     "year": "(1959)",
     "title": "Ben-Hur",
     "image": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 214,
     "rate": "8.1",
     "year": "(2011)",
     "title": "Harry Potter and the Deathly Hallows: Part 2",
     "image": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 215,
     "rate": "8.1",
     "year": "(2009)",
     "title": "Hachi: A Dog's Tale",
     "image": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 216,
     "rate": "8.1",
     "year": "(1986)",
     "title": "Platoon",
     "image": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 217,
     "rate": "8.1",
     "year": "(2007)",
     "title": "Into the Wild",
     "image": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 218,
     "rate": "8.0",
     "year": "(2017)",
     "title": "Logan",
     "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 219,
     "rate": "8.0",
     "year": "(2016)",
     "title": "The Handmaiden",
     "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 220,
     "rate": "8.0",
     "year": "(2013)",
     "title": "Rush",
     "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 221,
     "rate": "8.0",
     "year": "(1953)",
     "title": "The Wages of Fear",
     "image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 222,
     "rate": "8.0",
     "year": "(1979)",
     "title": "Monty Python's Life of Brian",
     "image": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 223,
     "rate": "8.0",
     "year": "(1959)",
     "title": "The 400 Blows",
     "image": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 224,
     "rate": "8.0",
     "year": "(2015)",
     "title": "Spotlight",
     "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 225,
     "rate": "8.0",
     "year": "(1928)",
     "title": "The Passion of Joan of Arc",
     "image": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 226,
     "rate": "8.0",
     "year": "(2017)",
     "title": "Vikram Vedha",
     "image": "https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 227,
     "rate": "8.0",
     "year": "(2004)",
     "title": "Hotel Rwanda",
     "image": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 228,
     "rate": "8.0",
     "year": "(1995)",
     "title": "La Haine",
     "image": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 229,
     "rate": "8.0",
     "year": "(1966)",
     "title": "Andrei Rublev",
     "image": "https://m.media-amazon.com/images/M/MV5BNjM2MjMwNzUzN15BMl5BanBnXkFtZTgwMjEzMzE5MTE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 230,
     "rate": "8.0",
     "year": "(2000)",
     "title": "Amores Perros",
     "image": "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 231,
     "rate": "8.0",
     "year": "(1976)",
     "title": "Rocky",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 232,
     "rate": "8.0",
     "year": "(1984)",
     "title": "Nausicaä of the Valley of the Wind",
     "image": "https://m.media-amazon.com/images/M/MV5BZWFkN2ZhODAtYTNkZS00Y2NjLWIzNDYtNzJjNDNlMzAyNTIyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 233,
     "rate": "8.0",
     "year": "(2001)",
     "title": "Monsters, Inc.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 234,
     "rate": "8.0",
     "year": "(2012)",
     "title": "Gangs of Wasseypur",
     "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 235,
     "rate": "8.0",
     "year": "(1940)",
     "title": "Rebecca",
     "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 236,
     "rate": "8.0",
     "year": "(1955)",
     "title": "Rififi",
     "image": "https://m.media-amazon.com/images/M/MV5BNjZmZGRiMDgtNDkwNi00OTZhLWFhZmMtYTdkYjgyNThhOWY3XkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 237,
     "rate": "8.0",
     "year": "(2006)",
     "title": "Rang De Basanti",
     "image": "https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 238,
     "rate": "8.0",
     "year": "(2004)",
     "title": "Before Sunset",
     "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 239,
     "rate": "8.0",
     "year": "(2000)",
     "title": "In the Mood for Love",
     "image": "https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 240,
     "rate": "8.0",
     "year": "(1984)",
     "title": "Paris, Texas",
     "image": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 241,
     "rate": "8.0",
     "year": "(2019)",
     "title": "Portrait of a Lady on Fire",
     "image": "https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 242,
     "rate": "8.0",
     "year": "(1934)",
     "title": "It Happened One Night",
     "image": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 243,
     "rate": "8.0",
     "year": "(2016)",
     "title": "The Invisible Guest",
     "image": "https://m.media-amazon.com/images/M/MV5BMDk0YzAwYjktMWFiZi00Y2FmLWJmMmMtMzUyZDZmMmU5MjkzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 244,
     "rate": "8.0",
     "year": "(2011)",
     "title": "The Help",
     "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 245,
     "rate": "8.0",
     "year": "(2015)",
     "title": "Drishyam",
     "image": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 246,
     "rate": "8.0",
     "year": "(1987)",
     "title": "The Princess Bride",
     "image": "https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 247,
     "rate": "8.0",
     "year": "(1966)",
     "title": "The Battle of Algiers",
     "image": "https://m.media-amazon.com/images/M/MV5BZWEzMGY4OTQtYTdmMy00M2QwLTliYTQtYWUzYzc3OTA5YzIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 248,
     "rate": "8.0",
     "year": "(2016)",
     "title": "A Silent Voice: The Movie",
     "image": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 249,
     "rate": "8.0",
     "year": "(1984)",
     "title": "The Terminator",
     "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY350_CR0,0,235,350_AL_.jpg"
-},
-{
+  },
+  {
     "id": 250,
     "rate": "8.0",
     "year": "(2013)",
     "title": "Tangerines",
     "image": "https://m.media-amazon.com/images/M/MV5BMTgwNzA3MDQzOV5BMl5BanBnXkFtZTgwNTE5MDE5NDE@._V1_UY350_CR0,0,235,350_AL_.jpg"
-}
+  }
 ]

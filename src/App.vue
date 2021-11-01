@@ -1,6 +1,6 @@
 <template>
   <v-app>
- <!--    <v-app-bar
+    <!--    <v-app-bar
       app
       color="primary"
       dark
@@ -36,34 +36,18 @@
     <v-main>
       <Home />
 
-      <v-snackbar app
-        v-model="snackWithButtons"
-        top
-        centered
-        timeout="-1"
-      >
-         {{ snackWithBtnText }}
+      <v-snackbar app v-model="snackWithButtons" top centered timeout="-1">
+        {{ snackWithBtnText }}
         <template v-slot:action="{ attrs }">
-          <v-btn
-            text
-            color="#00f500"
-            v-bind="attrs"
-            @click.stop="refreshApp"
-          >
+          <v-btn text color="#00f500" v-bind="attrs" @click.stop="refreshApp">
             {{ snackBtnText }}
-           <v-icon>mdi-update</v-icon>
-          
+            <v-icon>mdi-update</v-icon>
           </v-btn>
-          <v-btn
-            icon
-            color="red"
-            @click="snackWithButtons = false"
-          >
+          <v-btn icon color="red" @click="snackWithButtons = false">
             <v-icon>mdi-close</v-icon>
           </v-btn>
         </template>
       </v-snackbar>
-
     </v-main>
     <v-footer app>
       <FooterNavi />
@@ -72,69 +56,68 @@
 </template>
 
 <script>
-import FooterNavi from '@/components/FooterNavi';
-import Home from '@/views/Home';
-
+import FooterNavi from "@/components/FooterNavi";
+import Home from "@/views/Home";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Home,
-    FooterNavi
+    FooterNavi,
   },
-  data(){
+  data() {
     return {
       onLine: navigator.onLine,
       refreshing: false,
       registration: null,
-      snackBtnText: '',
-      snackWithBtnText: '',
+      snackBtnText: "",
+      snackWithBtnText: "",
       snackWithButtons: false,
     };
   },
   created() {
     // Listen for swUpdated event and display refresh snackbar as required.
-    document.addEventListener('swUpdated', this.showRefreshUI, { once: true });
+    document.addEventListener("swUpdated", this.showRefreshUI, { once: true });
     // Refresh all open app tabs when a new service worker is installed.
     if (navigator.serviceWorker) {
-      navigator.serviceWorker.addEventListener('controllerchange', () => {
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
         if (this.refreshing) return;
         this.refreshing = true;
         window.location.reload();
       });
     }
   },
-  methods:{
+  methods: {
     updateOnlineStatus(e) {
       const { type } = e;
-      this.onLine = type === 'online';
+      this.onLine = type === "online";
     },
-      showRefreshUI(e) {
+    showRefreshUI(e) {
       // Display a snackbar inviting the user to refresh/reload the app due
       // to an app update being available.
       // The new service worker is installed, but not yet active.
       // Store the ServiceWorkerRegistration instance for later use.
       this.registration = e.detail;
-      this.snackBtnText = 'Update';
-      this.snackWithBtnText = 'New version available!';
+      this.snackBtnText = "Update";
+      this.snackWithBtnText = "New version available!";
       this.snackWithButtons = true;
     },
     refreshApp() {
       this.snackWithButtons = false;
       // Protect against missing registration.waiting.
-      if (!this.registration || !this.registration.waiting) { return; }
-      this.registration.waiting.postMessage('skipWaiting');
+      if (!this.registration || !this.registration.waiting) {
+        return;
+      }
+      this.registration.waiting.postMessage("skipWaiting");
     },
-    
   },
-  mounted(){
-    window.addEventListener('online',  this.updateOnlineStatus);
-    window.addEventListener('offline', this.updateOnlineStatus);
-
+  mounted() {
+    window.addEventListener("online", this.updateOnlineStatus);
+    window.addEventListener("offline", this.updateOnlineStatus);
   },
   beforeDestroy() {
-    window.removeEventListener('online',  this.updateOnlineStatus);
-    window.removeEventListener('offline', this.updateOnlineStatus);
+    window.removeEventListener("online", this.updateOnlineStatus);
+    window.removeEventListener("offline", this.updateOnlineStatus);
   },
 };
 </script>
