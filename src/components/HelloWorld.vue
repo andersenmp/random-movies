@@ -58,6 +58,7 @@
                   <v-btn
                     color="orange lighten-2"
                     text
+                    @click="movie.show = !movie.show"
                   >
                     Explore
                   </v-btn>

@@ -9,23 +9,22 @@
           absolute
         >
       
-      <v-btn  @click="fetchAllLocalBoxOffice()" class="mt-2"> 
+      <v-btn  @click="fetchAllLocalBoxOffice()" class="mt-2" :color="color"> 
           <span>Office Box</span>
-
           <v-icon>mdi-popcorn</v-icon>
       </v-btn>
       
-      <v-btn  @click="fetchAllLocalMovies()" class="mt-2"> 
+      <v-btn  @click="fetchAllLocalMovies()" class="mt-2" :color="color"> 
           <span>Rated</span>
-
           <v-icon>mdi-filmstrip</v-icon>
       </v-btn>
       
-      <v-btn  @click="fetchAllLocalTv()" class="mt-2" >  
+      <v-btn  @click="fetchAllLocalTv()" class="mt-2" :color="color" >  
           <span>TV</span>
-
           <v-icon>mdi-television-classic</v-icon>
        </v-btn>
+
+      
 
     </v-bottom-navigation>
 
