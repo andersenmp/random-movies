@@ -47,27 +47,35 @@
             <v-card-title v-text="movie.title"></v-card-title>
             <v-card-subtitle v-text="movie.original_title"></v-card-subtitle>
 
-            <v-card-actions v-show="movie.overview != ''">
-              <v-btn color="orange lighten-2" text> Explore </v-btn>
-
-              <v-spacer></v-spacer>
-
-              <v-btn icon @click="movie.show = !movie.show">
-                <v-icon>{{
-                  movie.show ? "mdi-chevron-up" : "mdi-chevron-down"
-                }}</v-icon>
-              </v-btn>
-            </v-card-actions>
-
-            <v-expand-transition>
-              <div v-show="movie.show">
-                <v-divider></v-divider>
-                <v-card-text>
-                  {{ movie.overview }}
-                </v-card-text>
-              </div>
-            </v-expand-transition>
-          </v-card>
+                  <v-card-actions
+                  v-show="movie.overview != ''">
+                  <v-btn
+                    color="orange lighten-2"
+                    text
+                    @click="movie.show = !movie.show"
+                  >
+                    Explore
+                  </v-btn>
+      
+                  <v-spacer></v-spacer>
+            
+                  <v-btn
+                    icon
+                    @click="movie.show = !movie.show"
+                  >
+                    <v-icon>{{ movie.show ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
+                  </v-btn>
+                </v-card-actions>
+            
+                <v-expand-transition>
+                  <div v-show="movie.show">
+                    <v-divider></v-divider>
+                    <v-card-text>
+                      {{ movie.overview }}
+                    </v-card-text>
+                  </div>
+                </v-expand-transition>
+            </v-card>
         </v-col>
       </v-row>
     </v-container>
