@@ -1,7 +1,7 @@
 import axios from "axios";
 import localMovies from "./localMovies.json";
 import localTv from "./localTv.json";
-import localBoxOffice from "./localBoxOffice.json";
+
 
 const api_key = process.env.VUE_APP_API_KEY_TMDB;
 const api_baseUrl = "https://api.themoviedb.org/3";
@@ -22,10 +22,12 @@ const actions = {
   },
 
   async fetchLocalTv({ commit }) {
-    commit("setLocalMovies", localTv);
+    commit("setLocalTv", localTv);
   },
 
   async fetchBoxOffice({ commit }) {
+    let localBoxOffice = localMovies.concat(localTv);
+
     commit("setLocalBoxOffice", localBoxOffice);
   },
 
@@ -76,6 +78,18 @@ const mutations = {
     }));
   },
   setLocalBoxOffice: (state, movies) => {
+    state.movies = movies.map((movie,index) => ({
+      id: index,
+      title: movie.id + "." + movie.title,
+      original_title: "Rate:" + movie.rate,
+      image: movie.image,
+      overview: "Year:" + movie.year,
+      show: false,
+      selected: false,
+    }));
+  },
+
+  setLocalMovies: (state, movies) => {
     state.movies = movies.map((movie) => ({
       id: movie.id,
       title: movie.id + "." + movie.title,
@@ -86,8 +100,7 @@ const mutations = {
       selected: false,
     }));
   },
-
-  setLocalMovies: (state, movies) => {
+  setLocalTv: (state, movies) => {
     state.movies = movies.map((movie) => ({
       id: movie.id,
       title: movie.id + "." + movie.title,

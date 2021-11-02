@@ -93,21 +93,21 @@ export default {
     };
   },
   methods: {
-    ...mapActions(["fetchBoxOffice", "toggleView"]),
+    ...mapActions(["fetchLocalMovies", "toggleView"]),
     pickOne() {
       this.randomElement = this.allMovies[
         Math.floor(Math.random() * this.allMovies.length)
       ];
       this.toggleView(true);
     },
-    fetchAllLocalBoxOffice() {
+    fetchAllLocalMovies() {
       this.toggleView(false);
-      this.fetchBoxOffice();
+      this.fetchLocalMovies();
     },
   },
   computed: mapGetters(["allMovies", "isPicked"]),
   created() {
-    this.fetchAllLocalBoxOffice();
+    this.fetchAllLocalMovies();
   },
 };
 </script>
