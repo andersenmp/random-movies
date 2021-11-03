@@ -19,20 +19,24 @@ const getters = {
 };
 
 const actions = {
-  async fetchLocalMovies({ commit }) {
+  async fetchLocalMovies({ commit })
+  {
     commit("setLocalMovies", localMovies);
   },
 
-  async fetchLocalTv({ commit }) {
+  async fetchLocalTv({ commit })
+  {
     commit("setLocalTv", localTv);
   },
 
-  async fetchBoxOffice({ commit }) {
+  async fetchBoxOffice({ commit })
+  {
     let localBoxOffice = localMovies.concat(localTv);
     commit("setLocalBoxOffice", localBoxOffice);
   },
 
-  async fetchTopRatedMovies({ commit }) {
+  async fetchTopRatedMovies({ commit })
+  {
     let responseConsolidation = [];
     let page = 0;
     let totalPages = 10;
@@ -46,7 +50,8 @@ const actions = {
 
     commit("setMovies", responseConsolidation);
   },
-  async fetchPopularMovies({ commit }) {
+  async fetchPopularMovies({ commit })
+  {
     let responseConsolidation = [];
     let page = 0;
     let totalPages = 10;
@@ -61,18 +66,21 @@ const actions = {
     commit("setMovies", responseConsolidation);
   },
 
-  toggleView({ commit }, toShow) {
+  toggleView({ commit }, toShow)
+  {
     commit("togglePick", toShow);
   },
 
-  selectMovie({ commit }, index) {
+  selectMovie({ commit }, index)
+  {
     commit("setMoviesList", index);
   },
 
 };
 
 const mutations = {
-  setMovies: (state, movies) => {
+  setMovies: (state, movies) =>
+  {
     state.movies = movies.map((movie) => ({
       id: movie.id,
       title: movie.title,
@@ -84,9 +92,10 @@ const mutations = {
     }));
     state.selectedMovies = [];
   },
- 
-  setLocalBoxOffice: (state, movies) => {
-    state.movies = movies.map((movie,index) => ({
+
+  setLocalBoxOffice: (state, movies) =>
+  {
+    state.movies = movies.map((movie, index) => ({
       id: index,
       title: movie.id + "." + movie.title,
       original_title: "Rate:" + movie.rate,
@@ -98,7 +107,8 @@ const mutations = {
     state.selectedMovies = [];
   },
 
-  setLocalMovies: (state, movies) => {
+  setLocalMovies: (state, movies) =>
+  {
     state.movies = movies.map((movie) => ({
       id: movie.id,
       title: movie.id + "." + movie.title,
@@ -110,7 +120,8 @@ const mutations = {
     }));
     state.selectedMovies = [];
   },
-  setLocalTv: (state, movies) => {
+  setLocalTv: (state, movies) =>
+  {
     state.movies = movies.map((movie) => ({
       id: movie.id,
       title: movie.id + "." + movie.title,
@@ -122,11 +133,13 @@ const mutations = {
     }));
     state.selectedMovies = [];
   },
- 
-  setMoviesList: (state, index) => {
-    state.selectedMovies.push(state.movies[index-1]);
-    state.movies = state.movies.filter(function (e) {
-      return e.id != index-1;
+
+  setMoviesList: (state, index) =>
+  {
+    state.selectedMovies.push(state.movies[index - 1]);
+    state.movies = state.movies.filter(function (e)
+    {
+      return e.id != index - 1;
     });
   },
   togglePick: (state, pick) => (state.showPick = pick),
