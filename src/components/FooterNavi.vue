@@ -1,30 +1,26 @@
 <template>
   <div>
     <v-bottom-navigation
-          v-model="value"
-          :background-color="color"
-          dark
-          grow
-          absolute
-        >
-      
-      <v-btn  @click="fetchAllLocalMovies()" class="mt-2" :color="color"> 
-          <span>Movies</span>
-          <v-icon>mdi-popcorn</v-icon>
-      </v-btn>
-      
-      <v-btn  @click="fetchAllLocalTv()" class="mt-2" :color="color" >  
-          <span>TV</span>
-          <v-icon>mdi-television-classic</v-icon>
-       </v-btn>
-
-      <v-btn  @click="fetchAllLocalBoxOffice()" class="mt-2" :color="color"> 
-          <span>Mixed</span>
-          <v-icon>mdi-filmstrip</v-icon>
+      v-model="value"
+      :background-color="color"
+      dark
+      grow
+      absolute
+    >
+      <v-btn @click="fetchAllLocalMovies()" class="mt-2" :color="color">
+        <span>Movies</span>
+        <v-icon>mdi-popcorn</v-icon>
       </v-btn>
 
-      
+      <v-btn @click="fetchAllLocalTv()" class="mt-2" :color="color">
+        <span>TV</span>
+        <v-icon>mdi-television-classic</v-icon>
+      </v-btn>
 
+      <v-btn @click="fetchAllLocalBoxOffice()" class="mt-2" :color="color">
+        <span>Mixed</span>
+        <v-icon>mdi-filmstrip</v-icon>
+      </v-btn>
     </v-bottom-navigation>
   </div>
 </template>

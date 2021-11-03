@@ -37,4 +37,5 @@ async function download(url, dest) {
     );
     console.log(element.image);
   });
+  console.log(data);
 })();

@@ -34,6 +34,7 @@
     </v-app-bar> -->
 
     <v-main>
+       <v-spacer></v-spacer>
       <Home />
 
       <v-snackbar app v-model="snackWithButtons" top centered timeout="-1">

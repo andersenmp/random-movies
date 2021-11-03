@@ -8,12 +8,14 @@ const api_baseUrl = "https://api.themoviedb.org/3";
 
 const state = {
   movies: [],
+  selectedMovies: [],
   showPick: false,
 };
 
 const getters = {
   allMovies: (state) => state.movies,
   isPicked: (state) => state.showPick,
+  selectedMovies: (state) => state.selectedMovies,
 };
 
 const actions = {
@@ -27,7 +29,6 @@ const actions = {
 
   async fetchBoxOffice({ commit }) {
     let localBoxOffice = localMovies.concat(localTv);
-
     commit("setLocalBoxOffice", localBoxOffice);
   },
 
@@ -63,6 +64,11 @@ const actions = {
   toggleView({ commit }, toShow) {
     commit("togglePick", toShow);
   },
+
+  selectMovie({ commit }, index) {
+    commit("setMoviesList", index);
+  },
+
 };
 
 const mutations = {
@@ -76,7 +82,9 @@ const mutations = {
       show: false,
       selected: false,
     }));
+    state.selectedMovies = [];
   },
+ 
   setLocalBoxOffice: (state, movies) => {
     state.movies = movies.map((movie,index) => ({
       id: index,
@@ -87,6 +95,7 @@ const mutations = {
       show: false,
       selected: false,
     }));
+    state.selectedMovies = [];
   },
 
   setLocalMovies: (state, movies) => {
@@ -99,6 +108,7 @@ const mutations = {
       show: false,
       selected: false,
     }));
+    state.selectedMovies = [];
   },
   setLocalTv: (state, movies) => {
     state.movies = movies.map((movie) => ({
@@ -110,6 +120,14 @@ const mutations = {
       show: false,
       selected: false,
     }));
+    state.selectedMovies = [];
+  },
+ 
+  setMoviesList: (state, index) => {
+    state.selectedMovies.push(state.movies[index-1]);
+    state.movies = state.movies.filter(function (e) {
+      return e.id != index-1;
+    });
   },
   togglePick: (state, pick) => (state.showPick = pick),
 };
